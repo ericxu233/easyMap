@@ -1,6 +1,12 @@
 # easyMap046
 Potato Interactive Development Group Geographic Information System Mapping App that runs on Linux OS.
 
+Note: This page is shared with Jinlin "Simon" Cen, Hanyang "Eric" Xu and Tyler Zhao
+
+Simon Cen: https://github.com/simoncen
+Eric Xu: https://github.com/ericxu233
+Tyler Zhao: https://github.com/Relyt7684
+
 ## M2: Visualizing Interactive easyMap
 ### Map Selector
 * Load a new map by clicking the Draw Map button and select Toronto, Canada.
